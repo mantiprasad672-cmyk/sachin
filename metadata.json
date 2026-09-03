@@ -1,0 +1,6 @@
+{
+  "name": "Smart Society Member Registration & Management",
+  "description": "Professional society member registration system with multi-step validation, document uploads, admin approval workflow, and full-featured resident dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
